@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Day Lecture"
 date:   2018-08-31 15:12:25 -0700
 categories: jekyll update
 ---
 
 Introduction Post for YC.
 
-{% highlight JSON %}
+
+```
+
 To anyone who is interested,
 
-I am the founder of chainlinks, which is building an authentication protocol and standard for blockchain wallets, exchanges, and platforms to adopt. A high level explanation of our product is that that we want to make it as simple as clicking on 'Login with Facebook' to access your cryptocurrency wallets while maintain the same safety and security that are present and in place today.
+I am the founder of chainlinks, an authentication protocol and standard for blockchain wallets, exchanges, and platforms to adopt. A high level explanation of our product is that that we want to make it as simple as clicking on 'Login with Facebook' to access your cryptocurrency wallets while maintain the same safety and security that are present and in place today.
 
 Our goal is really to try and bring all blockchain technologies together in order to simplify the entry into the space for the general public
 
@@ -31,5 +33,5 @@ This is where I fell in love with challenges and opportunities that Silicon Vall
 
 Antoine
 
-{% endhighlight %}
+```
 
