@@ -8,3 +8,5 @@ layout: page
 Hello.
 
 We have developed a distributed authentication method for financial services in the blockchain community for use by wallets, exchanges, and various other platforms. 
+
+Checkback soon.
